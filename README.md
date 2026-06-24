@@ -100,7 +100,7 @@ AI-powered multilingual communication platform supporting speech, text, and hand
 
 ## 🤝 Let's Connect
 
-📧 Email: [sangeerthsangeerth84@gmail.com](mailto:sangeerthsr@gmail.com)
+📧 Email: [sangeerthsr@gmail.com](mailto:sangeerthsr@gmail.com)
 
 🔗 LinkedIn: https://linkedin.com/in/sangeerthsr
 
