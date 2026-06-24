@@ -1,16 +1,113 @@
-## Hi there 👋
+# Hi there 👋, I'm **Sangeerth S R**
 
-<!--
-**sangeerthsr/sangeerthsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Artificial Intelligence & Data Science Undergraduate | Full Stack Developer | Data Analyst
 
-Here are some ideas to get you started:
+I'm a Final Year B.Tech student specializing in Artificial Intelligence & Data Science with a passion for building scalable applications, leveraging data-driven insights, and developing intelligent solutions that create real-world impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💫 About Me
+
+🎓 Final Year B.Tech – Artificial Intelligence & Data Science
+
+💻 Full Stack Developer with experience in modern web technologies
+
+📊 Data Analyst skilled in Power BI, Tableau, SQL, and Data Visualization
+
+🤖 Enthusiast in Artificial Intelligence, Machine Learning, and Blockchain
+
+🌱 Currently expanding expertise in Cloud Computing and Advanced Full Stack Development
+
+🎯 Aspiring Software Engineer focused on delivering innovative and scalable solutions
+
+📍 Tamil Nadu, India
+
+---
+
+## ⚡ Technical Skills
+
+### Programming Languages
+
+Python • Java • SQL • JavaScript
+
+### Frontend Development
+
+HTML5 • CSS3 • React.js • Tailwind CSS
+
+### Backend Development
+
+Node.js • Express.js • REST APIs
+
+### Databases
+
+MongoDB • MySQL
+
+### Data Analytics
+
+Power BI • Tableau • Excel • Data Visualization
+
+### AI & Machine Learning
+
+Machine Learning • Scikit-Learn • Data Analysis
+
+### Tools & Platforms
+
+Git • GitHub • VS Code • Postman
+
+---
+
+## 🚀 Featured Projects
+
+### 🗳️ ShadowVote
+
+Secure blockchain-powered voting platform designed to ensure transparency, privacy, and tamper-proof elections.
+
+### ⛽ NexGen Fuel
+
+Smart fuel management system enabling real-time monitoring, analytics, and operational efficiency.
+
+### 🌐 Portfolio Website
+
+Personal portfolio developed using React.js and Tailwind CSS showcasing projects, skills, and achievements.
+
+### 🗣️ BhashaConnect
+
+AI-powered multilingual communication platform supporting speech, text, and handwriting translation across Indian languages.
+
+---
+
+## 🏆 Achievements & Recognition
+
+🥇 Recognized in the Cardano Track during India Blockchain Week Hackathon
+
+🚀 Participant – OpenAI × NxtWave Gen AI Buildathon
+
+🎖️ AICTE Eduskills Virtual Internship
+
+🎖️ NPTEL Elite Certification – Internet of Things
+
+📊 Data Analyst Internship – Shristi Innovative
+
+---
+
+## 📈 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sangeerthsr\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sangeerthsr\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 🤝 Let's Connect
+
+📧 Email: [sangeerthsangeerth84@gmail.com](mailto:sangeerthsr@gmail.com)
+
+🔗 LinkedIn: https://linkedin.com/in/sangeerthsr
+
+---
+
+### ✨ Philosophy
+
+> "Transforming ideas into impactful solutions through technology, innovation, and continuous learning."
+
+⭐ If you find my projects interesting, feel free to explore my repositories and connect with me.
