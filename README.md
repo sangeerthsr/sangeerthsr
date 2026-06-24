@@ -90,13 +90,9 @@ AI-powered multilingual communication platform supporting speech, text, and hand
 
 ---
 
-## 📈 GitHub Analytics
+## 💻 LeetCode Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sangeerthsr\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sangeerthsr\&theme=tokyonight\&hide_border=true)
-
----
+![LeetCode Stats](https://leetcard.jacoblin.cool/SangeerthSreekumar?theme=dark&font=Baloo)
 
 ## 🤝 Let's Connect
 
