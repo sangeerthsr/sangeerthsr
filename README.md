@@ -66,9 +66,7 @@ Secure blockchain-powered voting platform designed to ensure transparency, priva
 
 Smart fuel management system enabling real-time monitoring, analytics, and operational efficiency.
 
-### 🌐 Portfolio Website
 
-Personal portfolio developed using React.js and Tailwind CSS showcasing projects, skills, and achievements.
 
 ### 🗣️ BhashaConnect
 
@@ -90,9 +88,7 @@ AI-powered multilingual communication platform supporting speech, text, and hand
 
 ---
 
-## 💻 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/SangeerthSreekumar?theme=dark&font=Baloo)
 
 ## 🤝 Let's Connect
 
